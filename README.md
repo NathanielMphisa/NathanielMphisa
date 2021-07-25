@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathanielMphisa
-- 👀 I’m interested in data science, machine learning
+- 👀 I’m interested in data science, machine learning, Java Software Dev
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me: nate45mphisa@outlook.com
