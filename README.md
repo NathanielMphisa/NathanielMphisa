@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NathanielMphisa
-- 👀 I’m interested in data science, machine learning, Java Software Dev
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me: nate45mphisa@outlook.com
+- 👀 I’m interested in morden javascript & data science
+- 🌱 I’m currently learning modern js + datascience
+- 📫 How to reach me: nathymphisa@gmail.com
 
 <!---
 NathanielMphisa/NathanielMphisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
