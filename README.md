@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanielMphisa
-- 👀 I’m interested in morden javascript & data science
-- 🌱 I’m currently learning modern js + datascience
+- 👀 I’m interested in data science and Engineering
+- 🌱 I’m currently pursuing a Masters in Big Data Engineering
 - 📫 How to reach me: nathymphisa@gmail.com
 
 <!---
